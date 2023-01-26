@@ -7,16 +7,12 @@ html{
 
 body {
   margin: 0;
-  font-family: 300 11px/1.4 'Helvatica Neue', 'sans-serif';
+  
   color: #444;
   background-color: #022c43;
   overflow: hidden;
   display: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font: 300 11px/1.4 'Helvatica Neue', 'sans-serif';
 }
